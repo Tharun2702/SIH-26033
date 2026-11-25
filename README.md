@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:25/11/2026
+## Reference Number:26016280
+## Name:Tharun.R
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,30 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+1. we can planning to create a website that connects farmers directly eith customers
+2. Farmers can upload their products,add prices and recieve orders from customers.
+3. This helps farmers get a fair price and customers get fresh vegetables and fruits without many miidlemen(intermediaries).
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+1. Technologies : We will use HTML,CSS,Javascript,Python(Flask) and MySQL to develop the website.
+2. Methodology :![alt text](<Screenshot (46).png>)
+
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+1. Feasibility: This website can be developed using simple and affordable technologies.
+2. challenges : Internet problems,lack of digital knowledge and delivery difficulties may affect the project.
+3. Solutions: We can provide a simple website, local language support and nearby delivery faculties
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+1. Potential impact:Farmers can earn more incomes and consumers can get fresh products at fair prices
+2. Benefits : It supports local Farmers(social),improves farmer's income (Economic) and reduces food wastage(Environmental)
+
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+1.Agricultural Marketing in India –S.S.Acharya and N.L.Agarwal: Farmers sometimes do not get a good price for their products because of middlemen(intermediaries).
+
+2. National Agriculture Market (e-NAM): This online platform helps farmers sell all their products to buyers through an onlime platform.
+   Website link:www.enam.gov.in
+
+3. Ninjacart: It connects farmers with buyers and helps supply fresh vegetables and fruits.
+   Website: www.ninjacart.in
